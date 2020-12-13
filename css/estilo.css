@@ -1,0 +1,68 @@
+body {
+	margin:0;
+	font:13pt Calibri;
+	color: #5b1e1e;
+	 background: rgba(55, 4, 4, 1);
+}
+h1 {
+	color: rgb(82, 71, 136);
+	margin:0;
+	padding:0.5em;
+  text-align: center;
+}
+h2 {
+	color: red;
+	width: auto;
+	height: 10px;
+}
+.pGlobal {
+	margin-left: 80%;
+	position: absolute;
+}
+
+.puntaje{
+	position: absolute;
+	margin-left:7px;
+}
+
+.botoncomenzar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-decoration: none;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+  background-color: #14d160;
+  border-radius: 6px;
+  border: 1px solid #07300a;
+  }
+	input {
+		display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  text-decoration: none;
+
+	}
+	p {
+		color: rgb(255, 255, 255);
+		margin-left: auto;
+	  margin-right: auto;
+		display: block;
+		text-align: center;
+	}
+
+	.mesa{
+	  background: rgba(55, 4, 4, 1);
+	  border:rgb(255, 255, 255)blue 20px solid;
+	  padding: 24px;
+	  margin: 0px auto;
+	  display: inline-block
+	}
+
+img {
+	width: 19.5%;
+	height: 100%;
+
+}
